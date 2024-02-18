@@ -96,7 +96,7 @@ a {
   color: var(--color-main-text);
 }
 
-.internal-link-about-us {
+.internal-link:hover {
   color: var(--color-title-main);
   font-weight: 700;
 }
@@ -109,10 +109,18 @@ a {
   align-items: flex-start;
   gap: 10px;
   border-radius: 32px;
+  border-color: var(--color-title-main);
   background: var(--color-title-main);
   color: var(--color-main-white);
   font-weight: 600;
   line-height: normal;
+
+}
+
+.button:hover {
+  background-color: transparent;
+  color: var(--color-secondary-text);
+  border-color: var(--color-title-main);
 }
 
 /* hero section */
@@ -247,8 +255,18 @@ a {
   color: var(--color-main-white);
 }
 
+.internal-link-footer:hover {
+  color: var(--color-title-main);
+  font-weight: 700;
+}
+
 .address-footer {
   color: var(--color-main-white);
+}
+
+.address-footer:hover {
+  color: var(--color-title-main);
+  font-weight: 700;
 }
 
 .policy {
