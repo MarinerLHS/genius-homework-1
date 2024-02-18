@@ -1,4 +1,5 @@
 # Домашнє завдання №1
+https://MarinerLHS.github.io/genius-homework/homework-1/
 
 ## Критерії виконання
 
