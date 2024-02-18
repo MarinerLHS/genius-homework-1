@@ -1,5 +1,5 @@
 # Домашнє завдання №1
-[Homework 1](https://your-name.github.io/genius-homework/homework-1/)<br>
+[Homework 1](https://github.com/MarinerLHS/genius-homework-1)<br>
 
 ## Критерії виконання
 
